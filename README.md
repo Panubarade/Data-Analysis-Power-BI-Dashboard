@@ -43,7 +43,8 @@ This project is a sales dashboard created to analyze and visualize e-commerce da
 -Profit by Sub-Category
 
 ## Dashboard
-![sales analysis p1](https://github.com/user-attachments/assets/7c1bb38c-7c31-4068-9bf9-08c57261095e)
+![Project2](https://github.com/user-attachments/assets/ffb8a1b9-f687-42ff-91e5-d361ee3012ec)
+
 
 ## Conclusion
 
