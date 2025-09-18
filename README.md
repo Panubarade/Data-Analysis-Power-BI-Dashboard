@@ -25,7 +25,7 @@ This project is a sales dashboard created to analyze and visualize e-commerce da
 -How does sales performance change when a specific quarter is selected?
 
 -Dashboard Interaction 
-- <a href="https://github.com/Panubarade/Data-Analysis-Power-BI-Dashboard/commit/69868e48dcaef2e43ee364502cfccc4c3c593180">View Dashboard</a>
+- <a href="https://github.com/Panubarade/Data-Analysis-Power-BI-Dashboard/blob/69868e48dcaef2e43ee364502cfccc4c3c593180/P2.png">View Dashboard</a>
 
 ## Process
 
